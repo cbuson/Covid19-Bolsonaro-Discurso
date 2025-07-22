@@ -15,7 +15,7 @@ Este corpus está disponible para fines académicos y de investigación. Se perm
 
 ## Citación Sugerida
 Por favor, cita este repositorio de la siguiente manera:
-> Busón, C., García Arf, L. M., Diez, Á., & Carabalí, A. (2025). *Corpus de Discursos Presidenciales sobre la Pandemia de COVID-19 en Brasil*. GitHub. Recuperado de [enlace al repositorio].
+> Busón, C. (2025). *Corpus de Discursos Presidenciales sobre la Pandemia de COVID-19 en Brasil*. GitHub. Recuperado de [enlace al repositorio].
 
 ## Contacto
 Para más información sobre el estudio o el corpus, por favor contacta al autor principal:
